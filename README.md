@@ -1,8 +1,6 @@
 University project of the course "INTRODUZIONE ALLA DATA SCIENCE" of the computer science university of Genoa
-
-Ecco una versione più dettagliata del readme che copre tutti gli aspetti del programma:
-
 # Streaming Platform Data Analysis
+
 ## Key Features
 ### Objectives
 - Perform comparative analysis between Netflix and Disney+ platforms 
