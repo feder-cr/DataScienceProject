@@ -1,6 +1,8 @@
 University project of the course "INTRODUZIONE ALLA DATA SCIENCE" of the computer science university of Genoa
 # Streaming Platform Data Analysis
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Federico%20Elia-0A66C2?logo=linkedin&logoColor=white)](https://it.linkedin.com/in/federico-elia-5199951b6)
+
 ## Key Features
 ### Objectives
 - Perform comparative analysis between Netflix and Disney+ platforms 
